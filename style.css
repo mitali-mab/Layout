@@ -1,0 +1,47 @@
+div{
+	height: 32em;
+}
+.header{
+	width: 81.5em;
+	padding: 1.5em;
+	background-color: lightskyblue;
+	color: white;
+	
+}
+.Sidebar{
+	float: left;
+	width: 22em;
+	height: 23.99em;
+	padding:1.5em;
+	background-color: lightgreen;
+	color: white;
+	margin-bottom: 0.5em;
+	
+}
+.Main{
+	float: right;
+	width: 55em;
+	height: 18em;
+	padding: 1.5em;
+	background-color: darkorange;
+	color: white;
+	font-style: normal;
+	margin-bottom: 0.5em;
+}
+.Extra{
+	float: right;
+	width: 55em;
+	height: 2.9em;
+	padding: 1.5em;
+	background-color: darkgoldenrod;
+	color: white;
+	font-style: normal;
+	border-bottom: 0.5em;
+}
+.Footer{
+	width: 81.5em;
+	padding: 1.5em;
+	height: 3em;
+	background-color: darkcyan;
+	color: white;
+}
